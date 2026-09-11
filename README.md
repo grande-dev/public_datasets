@@ -3,10 +3,15 @@
  This repository contains a collection of public datasets generated for the publications I contributed to.  
  
  
+## Content
+<ol>
+  <li>[2026] Kolmogorov-Arnold Networks for Autonomous Underwater Engineering ![link](./1-KAN-state-space-models-AUV).</li>
+</ol> 
+ 
 
 ## License  
 The datasets and accompanying metadata in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 Under this license, the datasets may be shared and adapted for any purpose, including commercial use, provided that appropriate attribution is given.  
-For citation information, please refer to the `CITATION.cff` file and, where applicable, the publication associated with each dataset.
+For citation information, please refer to the citations instructions provided in each folder.  
    
- Unless explicitly stated otherwise, software or source code contained in this repository is not available in the repository, and it can be found in the repository.   
+ Unless explicitly stated otherwise, software or source code is not available in the repository, and it can be found in the relevant linked repositories.   
