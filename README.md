@@ -4,9 +4,8 @@
  
  
 ## Content
-<ol>
-  <li> (2026) Kolmogorov-Arnold Networks for Autonomous Underwater Engineering [folder](./1-KAN-state-space-models-AUV/). </li>
-</ol> 
+1. (2026) Kolmogorov-Arnold Networks for Autonomous Underwater Engineering [folder](./1-KAN-state-space-models-AUV/).  
+  
  
 
 ## License  
